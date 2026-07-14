@@ -19,6 +19,17 @@ set -e
 
 mkdir -p web
 
+# --- GLM (header-only) -------------------------------------------------------
+# Not fetched via CMake here since this script drives emcc directly, so pull
+# the same version the desktop/Android CMake build uses (see
+# cmake/ImportDependencies.cmake) into a local cache if not already present.
+GLM_DIR=.glm_cache
+if [ ! -f "$GLM_DIR/glm/glm.hpp" ]; then
+    echo "Fetching GLM 0.9.9.8 ..."
+    rm -rf "$GLM_DIR"
+    git clone --depth 1 --branch 0.9.9.8 https://github.com/g-truc/glm.git "$GLM_DIR"
+fi
+
 # --- GLFW backend (default) -------------------------------------------------
 emcc -std=c++17 \
     Scene/main.cpp \
@@ -26,6 +37,7 @@ emcc -std=c++17 \
     Scene/Fan.cpp \
     Scene/Transform.cpp \
     -IScene \
+    -I"$GLM_DIR" \
     -DUSE_GLFW \
     -s USE_GLFW=3 \
     -s USE_WEBGL2=1 \
@@ -43,6 +55,7 @@ emcc -std=c++17 \
 #     Scene/Fan.cpp \
 #     Scene/Transform.cpp \
 #     -IScene \
+#     -I"$GLM_DIR" \
 #     -s USE_SDL=2 \
 #     -s USE_WEBGL2=1 -s FULL_ES3=1 \
 #     -s WASM=1 \

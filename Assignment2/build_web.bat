@@ -20,6 +20,17 @@ REM CALL "%EMSDK_PATH%\emsdk_env.bat"
 
 IF NOT EXIST web MKDIR web
 
+REM --- GLM (header-only) ------------------------------------------------------
+REM Not fetched via CMake here since this script drives emcc directly, so pull
+REM the same version the desktop/Android CMake build uses (see
+REM cmake/ImportDependencies.cmake) into a local cache if not already present.
+SET GLM_DIR=.glm_cache
+IF NOT EXIST "%GLM_DIR%\glm\glm.hpp" (
+    echo Fetching GLM 0.9.9.8 ...
+    IF EXIST "%GLM_DIR%" RMDIR /S /Q "%GLM_DIR%"
+    git clone --depth 1 --branch 0.9.9.8 https://github.com/g-truc/glm.git "%GLM_DIR%"
+)
+
 REM --- GLFW backend (default) -----------------------------------------------
 emcc -std=c++17 ^
      Scene/main.cpp ^
@@ -27,6 +38,7 @@ emcc -std=c++17 ^
      Scene/Fan.cpp ^
      Scene/Transform.cpp ^
      -IScene ^
+     -I"%GLM_DIR%" ^
      -DUSE_GLFW ^
      -s USE_GLFW=3 ^
      -s USE_WEBGL2=1 ^
@@ -44,6 +56,7 @@ REM      Scene/Renderer.cpp ^
 REM      Scene/Fan.cpp ^
 REM      Scene/Transform.cpp ^
 REM      -IScene ^
+REM      -I"%GLM_DIR%" ^
 REM      -s USE_SDL=2 ^
 REM      -s USE_WEBGL2=1 ^
 REM      -s FULL_ES3=1 ^
