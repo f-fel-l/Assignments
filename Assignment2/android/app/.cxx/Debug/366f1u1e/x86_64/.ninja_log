@@ -1,0 +1,15 @@
+# ninja log v5
+3	13383	8055746916461923	build.ninja	b7c71c5057717567
+11	1327	8055745476527456	CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o	7e10d95c19a8ab78
+1	17	0	clean	4e18731c811275e7
+53	929	8055746927857375	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Transform.cpp.o	f20d507621d48a47
+26	1824	8055746936735121	CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o	89952e2f6b496079
+13	2476	8055746943224262	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Renderer.cpp.o	80e973cc3ca90964
+39	2552	8055746943976092	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Fan.cpp.o	dacc1969e3a66492
+2554	2838	8055746946808884	C:/GitHub/Com_graph/Assignments/Assignment2/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/x86_64/libglpiframeworkintro.so	a6770c9906cb7f05
+0	31	0	clean	4e18731c811275e7
+96	1936	8055802655072917	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Transform.cpp.o	f20d507621d48a47
+48	2366	8055802660190538	CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o	89952e2f6b496079
+17	2994	8055802666452445	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Renderer.cpp.o	80e973cc3ca90964
+79	3354	8055802669992497	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Fan.cpp.o	dacc1969e3a66492
+3354	3626	8055802672795217	C:/GitHub/Com_graph/Assignments/Assignment2/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/x86_64/libglpiframeworkintro.so	a6770c9906cb7f05

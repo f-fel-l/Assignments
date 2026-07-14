@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/cc1e500eafbab30cbbf97c0389e50c68/glfw-populate.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/067763545e2af0ce8687150309829b81/glfw-populate-complete.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-build.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-configure.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-download.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-install.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-mkdir.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-patch.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-test.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-update.rule

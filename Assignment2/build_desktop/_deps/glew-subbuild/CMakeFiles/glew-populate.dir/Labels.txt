@@ -1,0 +1,14 @@
+# Target labels
+ glew-populate
+# Source files and their labels
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/glew-populate
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/e1e76cbb7433d117b08a91e1851b3059/glew-populate.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/e730d9e1450deb48de35c060aa2e607e/glew-populate-complete.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-build.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-configure.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-download.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-install.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-mkdir.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-patch.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-test.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-subbuild/CMakeFiles/03a5c970541115d77a46e86b1ffee1cb/glew-populate-update.rule

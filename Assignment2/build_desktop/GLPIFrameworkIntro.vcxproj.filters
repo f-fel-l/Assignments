@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\GitHub\Com_graph\Assignments\Assignment2\Scene\Fan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Com_graph\Assignments\Assignment2\Scene\Renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Com_graph\Assignments\Assignment2\Scene\Transform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\Com_graph\Assignments\Assignment2\Scene\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\GitHub\Com_graph\Assignments\Assignment2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EBD9DE56-95BC-300B-AC9D-D8C5ED26BDA1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

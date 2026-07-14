@@ -1,0 +1,16 @@
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/CMakeFiles/GLPIFrameworkIntro.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/CMakeFiles/INSTALL.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/CMakeFiles/ZERO_CHECK.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-build/CMakeFiles/uninstall.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-build/CMakeFiles/INSTALL.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-build/src/CMakeFiles/glfw.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-build/src/CMakeFiles/update_mappings.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-build/src/CMakeFiles/INSTALL.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-build/CMakeFiles/libglew_static.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-build/CMakeFiles/INSTALL.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glew-build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-build/CMakeFiles/INSTALL.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-build/CMakeFiles/ALL_BUILD.dir
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-build/glm/CMakeFiles/INSTALL.dir

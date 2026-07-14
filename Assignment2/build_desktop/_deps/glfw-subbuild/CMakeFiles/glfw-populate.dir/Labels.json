@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/glfw-populate"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/cc1e500eafbab30cbbf97c0389e50c68/glfw-populate.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/067763545e2af0ce8687150309829b81/glfw-populate-complete.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-build.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-configure.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-download.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-install.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-patch.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-test.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glfw-subbuild/CMakeFiles/aa53e3abb33a6e851725732eb0ca6913/glfw-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-populate"
+		],
+		"name" : "glfw-populate"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "_deps/glm-build/glm",
+		"source" : "C:/GitHub/Com_graph/Assignments/Assignment2/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-src/glm"
+	}
+}

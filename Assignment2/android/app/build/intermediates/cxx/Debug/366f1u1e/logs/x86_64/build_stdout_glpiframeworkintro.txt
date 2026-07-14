@@ -1,0 +1,6 @@
+ninja: Entering directory `C:\GitHub\Com_graph\Assignments\Assignment2\android\app\.cxx\Debug\366f1u1e\x86_64'
+[1/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Transform.cpp.o
+[2/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o
+[3/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Renderer.cpp.o
+[4/5] Building CXX object CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment2/Scene/Fan.cpp.o
+[5/5] Linking CXX shared library C:\GitHub\Com_graph\Assignments\Assignment2\android\app\build\intermediates\cxx\Debug\366f1u1e\obj\x86_64\libglpiframeworkintro.so

@@ -1,0 +1,14 @@
+# Target labels
+ glm-populate
+# Source files and their labels
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/glm-populate
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/8d094f76764e4e7fd42dd2cf0a3514d2/glm-populate.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/4c9035dd991bfb5cd5441594afe9ea5c/glm-populate-complete.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-build.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-configure.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-download.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-install.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-mkdir.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-patch.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-test.rule
+C:/GitHub/Com_graph/Assignments/Assignment2/build_desktop/_deps/glm-subbuild/CMakeFiles/bdffac78f505373fa2bfb204531affee/glm-populate-update.rule
