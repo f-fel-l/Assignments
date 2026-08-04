@@ -35,6 +35,9 @@ emcc -std=c++17 \
     Scene/main.cpp \
     Scene/Renderer.cpp \
     Scene/Fan.cpp \
+    Scene/Ground.cpp \
+    Scene/Scene3D.cpp \
+    Scene/SceneHUD.cpp \
     Scene/Transform.cpp \
     -IScene \
     -I"$GLM_DIR" \
@@ -53,6 +56,9 @@ emcc -std=c++17 \
 #     Scene/main.cpp \
 #     Scene/Renderer.cpp \
 #     Scene/Fan.cpp \
+#     Scene/Ground.cpp \
+#     Scene/Scene3D.cpp \
+#     Scene/SceneHUD.cpp \
 #     Scene/Transform.cpp \
 #     -IScene \
 #     -I"$GLM_DIR" \
