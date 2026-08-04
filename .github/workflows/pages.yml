@@ -53,6 +53,13 @@ jobs:
           mkdir -p ../site/Assignment2
           cp -r web/. ../site/Assignment2/
 
+      - name: Build Assignment 3
+        working-directory: Assignment3
+        run: |
+          bash build_web.sh
+          mkdir -p ../site/Assignment3
+          cp -r web/. ../site/Assignment3/
+
       - name: Generate index.html
         run: |
           cat > site/index.html << 'HTML'
