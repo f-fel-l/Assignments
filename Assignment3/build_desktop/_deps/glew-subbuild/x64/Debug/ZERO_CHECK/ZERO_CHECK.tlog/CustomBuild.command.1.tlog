@@ -1,0 +1,10 @@
+^C:\GITHUB\COM_GRAPH\ASSIGNMENTS\ASSIGNMENT3\BUILD_DESKTOP\_DEPS\GLEW-SUBBUILD\CMAKEFILES\C22D099D05C748A29A3306397C44313B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild -BC:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/glew-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,21 @@
+# ninja log v5
+1	246	8075588274157599	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	cdee658dedcbea19
+1	246	8075588274157599	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	cdee658dedcbea19
+246	12310	8075588394747912	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	d9caf19b97aef32c
+246	12310	8075588394747912	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	d9caf19b97aef32c
+12310	12617	0	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	6d9a2ccead7ef2d6
+12310	12617	0	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	6d9a2ccead7ef2d6
+12617	12739	8075588399036314	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	9bf0386bc181e7c2
+12617	12739	8075588399036314	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	9bf0386bc181e7c2
+12739	12856	8075588400216803	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	1015c61b3932b27f
+12739	12856	8075588400216803	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	1015c61b3932b27f
+12856	12982	8075588401393381	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	6c1d9238247cd721
+12856	12982	8075588401393381	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	6c1d9238247cd721
+12983	13133	8075588402996755	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	b83b1aa6017573f2
+12983	13133	8075588402996755	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	b83b1aa6017573f2
+13134	13242	8075588404084548	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	44a9a18d205f4e62
+13134	13242	8075588404084548	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	44a9a18d205f4e62
+13242	13382	8075588405490081	CMakeFiles/glm-populate-complete	b58389d96fbd9af8
+13242	13382	8075588405490081	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	b58389d96fbd9af8
+13242	13382	8075588405490081	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	b58389d96fbd9af8
+13242	13382	8075588405490081	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/armeabi-v7a/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	b58389d96fbd9af8

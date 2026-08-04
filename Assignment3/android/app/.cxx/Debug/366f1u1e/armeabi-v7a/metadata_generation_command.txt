@@ -1,0 +1,18 @@
+                        -HC:\GitHub\Com_graph\Assignments\Assignment3\android\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=34
+-DANDROID_PLATFORM=android-34
+-DANDROID_ABI=armeabi-v7a
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DANDROID_NDK=C:\Users\itsfl\AppData\Local\Android\Sdk\ndk\27.0.12077973
+-DCMAKE_ANDROID_NDK=C:\Users\itsfl\AppData\Local\Android\Sdk\ndk\27.0.12077973
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\itsfl\AppData\Local\Android\Sdk\ndk\27.0.12077973\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\itsfl\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\GitHub\Com_graph\Assignments\Assignment3\android\app\build\intermediates\cxx\Debug\366f1u1e\obj\armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\GitHub\Com_graph\Assignments\Assignment3\android\app\build\intermediates\cxx\Debug\366f1u1e\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-BC:\GitHub\Com_graph\Assignments\Assignment3\android\app\.cxx\Debug\366f1u1e\armeabi-v7a
+-GNinja
+                        Build command args: []
+                        Version: 2

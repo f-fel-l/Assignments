@@ -1,0 +1,10 @@
+^C:\GITHUB\COM_GRAPH\ASSIGNMENTS\ASSIGNMENT3\BUILD_DESKTOP\_DEPS\GLM-SUBBUILD\CMAKEFILES\864BBA236D2B3AD67CE96A69F5FA5B87\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glm-subbuild -BC:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glm-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glm-subbuild/glm-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/glew-populate"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/c22d099d05c748a29a3306397c44313b/glew-populate.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/c4f8b8f0aa8c72f3f59b3035afcfb39a/glew-populate-complete.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-build.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-configure.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-download.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-install.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-patch.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-test.rule"
+		},
+		{
+			"file" : "C:/GitHub/Com_graph/Assignments/Assignment3/build_desktop/_deps/glew-subbuild/CMakeFiles/e251f100f7e842b7b37e1cef70ccdeae/glew-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glew-populate"
+		],
+		"name" : "glew-populate"
+	}
+}

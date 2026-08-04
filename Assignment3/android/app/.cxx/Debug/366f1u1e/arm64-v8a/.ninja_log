@@ -1,0 +1,10 @@
+# ninja log v5
+64	201	8075588227812877	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment3/Scene/SceneHUD.cpp.o	f2c158b5e1dec017
+11	238	8075588228194241	CMakeFiles/glpiframeworkintro.dir/NativeTemplate.cpp.o	c5354db51ede42b5
+21	1434	8075588239988889	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment3/Scene/Transform.cpp.o	8b42eb4236a32cf5
+1	2336	8075588249076070	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment3/Scene/Renderer.cpp.o	6984c2061e1d0b67
+80	2346	8075588249076070	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment3/Scene/Scene3D.cpp.o	35a6f9159430a43b
+48	2530	8075588250982472	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment3/Scene/Ground.cpp.o	7deda677744e1b25
+34	2640	8075588252089820	CMakeFiles/glpiframeworkintro.dir/C_/GitHub/Com_graph/Assignments/Assignment3/Scene/Fan.cpp.o	4baf8dec7774150c
+2640	2840	8075588254122079	C:/GitHub/Com_graph/Assignments/Assignment3/android/app/build/intermediates/cxx/Debug/366f1u1e/obj/arm64-v8a/libglpiframeworkintro.so	8fa33b2157eb11e
+0	14	0	clean	4e18731c811275e7

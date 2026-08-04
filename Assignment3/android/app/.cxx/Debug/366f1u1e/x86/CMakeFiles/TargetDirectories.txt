@@ -1,0 +1,7 @@
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/CMakeFiles/glpiframeworkintro.dir
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/CMakeFiles/edit_cache.dir
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/CMakeFiles/rebuild_cache.dir
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/CMakeFiles/edit_cache.dir
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/CMakeFiles/rebuild_cache.dir
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/glm/CMakeFiles/edit_cache.dir
+C:/GitHub/Com_graph/Assignments/Assignment3/android/app/.cxx/Debug/366f1u1e/x86/_deps/glm-build/glm/CMakeFiles/rebuild_cache.dir
