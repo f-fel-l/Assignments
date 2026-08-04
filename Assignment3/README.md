@@ -1,4 +1,4 @@
-# Assignment 2 — 3D Fan
+# Assignment 3 — 3D Fan
 
 A 3D table fan — base, pole, hub, and four spinning blades — built from a
 single 8-vertex cube drawn seven times with a different model matrix per part
@@ -10,6 +10,16 @@ Gestures (mouse on Desktop/Web = touch on Android):
 - **Tap / click** — toggles the fan ON/OFF and logs `Fan ON` / `Fan OFF`.
 - **Swipe / click-drag** — spins the fan faster proportional to drag speed;
   releasing returns it to base speed.
+
+### Bonus features
+
+- **Smooth zoom/speed easing** — instead of an instant jump per button press,
+  the camera distance and fan speed ease toward their target values over a
+  few frames rather than snapping immediately.
+- **Press-and-hold** — holding down `+SPD` / `-SPD` / `+ZOOM` / `-ZOOM`
+  repeats the action every frame instead of requiring repeated clicks, the
+  same level-triggered pattern the Scene Graph HUD examples use for their
+  D-pad.
 
 ## Prerequisites
 
